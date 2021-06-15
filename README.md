@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Helenelias
-- 👀 I’m interested in to share my projects in design and developed
-- 🌱 I’m currently learning design ux and web developed
-- 💞️ I’m looking to collaborate on interfaces and experience with user. I would like someone that want to work this.
+- 👀 I’m interested in to share my projects in Web development
+- 🌱 I’m currently learning design ux and Web development
+- 💞️ I’m looking to collaborate on development, interfaces and experience with user. I would like to find someone that want to work this.
 - 📫 How to reach me ...
 
 <!---
